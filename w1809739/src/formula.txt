@@ -1,0 +1,6 @@
+Name       Location           Team      first_position     second_position      third_position    Number of points     Number of races  
+  v           b                n              1                  0                  0                   25                    1  
+  q           w                e              2                  0                  0                   50                    2  
+  a           s                d              0                  1                  1                   33                    2  
+  r           t                y              0                  1                  0                   18                    1  
+  f           g                h              0                  0                  1                   15                    1  
